@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: E-commerce-Bot
+Version: 0.0.1
+Author: Yazid
+Author-email: yazid.ben-madani@epita.fr
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask
