@@ -2,3 +2,5 @@ venv
 .env
 notebook
 E_commerce_Bot.egg-info
+__pycache__/
+*.pyc
